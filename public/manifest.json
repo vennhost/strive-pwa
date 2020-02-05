@@ -1,0 +1,17 @@
+{
+  "name": "Strive Progressive Web Application",
+  "short_name": "SPWA",
+  "description": "This demonstrates how to convert a CRA in a PWA",
+  "lang": "en-US",
+  "start_url": "/",
+  "display": "fullscreen",
+  "orientation": "landscape",
+  "theme_color": "#58FA82",
+  "icons": [
+    {
+      "src": "strive-logo.png",
+      "sizes": "256x256",
+      "type": "image/png"
+    }
+  ]
+}
